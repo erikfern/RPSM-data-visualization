@@ -1,0 +1,208 @@
+studentID,householdID,postalcode,lat1,lon1,studentAge,studentGender,lessonTime,lessonDay,className,lessonLocation,lat2,lon2,incomeCat,dependents
+0032A00002O4svS,a0B2A00000urxbr,M3N1M1,43.7572038,-79.5099306,10,Female,4:20:00 PM,Wednesday,Group Piano,Topcliff P.S.,43.7555852,-79.5106653,"B ($20,000-$39,999)",1
+003F000001pLY0s,a0BF000000jlEKt,M3N1J7,43.7469681,-79.5144988,11,Female,4:00:00 PM,Thursday,Group piano,Oakdale Park M.S.,43.747478,-79.512099,,
+0032A00002aR667,a0B2A00000v9gEO,M3N2R5,43.7601332,-79.5079979,10,Male,5:20:00 PM,Monday,Group Piano,Firgrove P.S.,43.751963,-79.5203,"B ($20,000-$39,999)",4
+0032A00002d0O0U,a0B2A00000w2Bgz,M2R2A3,43.7906887,-79.446655,9,Male,11:00:00 AM,Saturday,Ukulele Ensemble - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+0032A00002d0O0U,a0B2A00000w2Bgz,M2R2A3,43.7906887,-79.446655,9,Male,10:00:00 AM,Saturday,Keyboards and Beats 1,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+003F000001WXcGF,a0BF000000iEOxo,L3T3W6,43.8253868,-79.4097241,9,Male,4:30:00 PM,Tuesday,Group Guitar,FLICC,43.751489,-79.517835,"I ($70,000+)",2
+0032A00002hMPIU,a0B2A00000w2TWW,M3N2H5,43.7739913,-79.52504,6,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"C ($40,000-$49,999; 2 or more dependents)",3
+0032A00002hMPIU,a0B2A00000w2TWW,M3N2H5,43.7739913,-79.52504,6,Female,5:20:00 PM,Wednesday,Group Piano,Topcliff P.S.,43.7555852,-79.5106653,"C ($40,000-$49,999; 2 or more dependents)",3
+0032A00002iCwIA,a0B2A00000w2W0z,M1S1M3,43.7858852,-79.2835204,9,Male,11:00:00 AM,Saturday,Keyboards and Beats 2,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",3
+0032A00002d1rIZ,a0B2A00000w2DSH,M3N2W2,43.7691932,-79.5227562,5,Female,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+0032A00002VBuR4,a0B2A00000uu3fw,M3J1R4,43.7561374,-79.4912161,12,Female,5:00:00 PM,Wednesday,Group Guitar,Oakdale Park M.S.,43.747478,-79.512099,"A (<$20,000)",2
+0032A00002O6Qa6,a0B2A00000usJIE,M3N2J7,43.7532144,-79.5180127,9,Female,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,,
+0032A00002T0vVw,a0B2A00000utxPx,M3N2L5,43.7458812,-79.515553,13,Female,5:00:00 PM,Wednesday,Choir - SR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"G ($60,000-$69,999; 2 or more dependents)",2
+0032A00002T0vVw,a0B2A00000utxPx,M3N2L5,43.7458812,-79.515553,13,Female,12:00:00 PM,Saturday,Keyboards and Beats 3,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"G ($60,000-$69,999; 2 or more dependents)",2
+0032A00002d3n8u,a0B2A00000w2GD6,M3L1S2,43.7407173,-79.5141474,13,Female,3:00:00 PM,Wednesday,Group Guitar,Oakdale Park M.S.,43.747478,-79.512099,"A (<$20,000)",3
+0032A00002d1vBF,a0B2A00000w2DYo,M3N2V4,43.753774,-79.5176613,8,Female,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,,
+0032A00002hMPG9,a0B2A00000w2TWW,M3N2H5,43.7739913,-79.52504,8,Female,4:20:00 PM,Monday,Group Piano,Firgrove P.S.,43.751963,-79.5203,"C ($40,000-$49,999; 2 or more dependents)",3
+0032A00002hMPG9,a0B2A00000w2TWW,M3N2H5,43.7739913,-79.52504,8,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"C ($40,000-$49,999; 2 or more dependents)",3
+003F000001d0iHt,a0BF000000jl9TU,M3N1K5,43.7492967,-79.5204723,14,Female,3:10:00 PM,Monday,Private Piano,Oakdale Park M.S.,43.747478,-79.512099,,
+0032A00002VC0rT,a0B2A00000uu3m4,M3M2V8,43.7413333,-79.492007,9,Female,1:30:00 PM,Saturday,Rock Band - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+003F000001pLzwm,a0BF000000ohvj9,M3M2V8,43.7413333,-79.492007,12,Female,3:40:00 PM,Monday,Private Piano,Oakdale Park M.S.,43.747478,-79.512099,,
+003F0000020WN2C,a0BF000000r1pU2,M2N2X5,43.7627551,-79.398554,9,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,,
+0032A00002T02Ky,a0B2A00000utt9n,M3N2J8,43.7525592,-79.5157287,8,Male,11:00:00 AM,Saturday,Keyboards and Beats 2,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"G ($60,000-$69,999; 2 or more dependents)",2
+0032A00002T02Dc,a0B2A00000utt9J,M3n2h8,43.7501257,-79.5150259,10,Male,5:00:00 PM,Wednesday,Group Guitar,Oakdale Park M.S.,43.747478,-79.512099,"A (<$20,000)",1
+003F000001d0r0S,a0BF000000jlEAQ,M3N2V4,43.753774,-79.5176613,11,0,3:20:00 PM,Monday,Group Piano,Firgrove P.S.,43.751963,-79.5203,"A (<$20,000)",5
+0032A00002VD8zE,a0B2A00000uu4oC,M3N1S3,43.7665924,-79.52504,7,Male,10:00:00 AM,Saturday,Keyboards and Beats 1,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"D ($40,000-$49,999; 1 dependent)",1
+0032A00002d0K11,a0B2A00000w2BZt,M3M2Y6,43.7437998,-79.4930614,7,Male,1:30:00 PM,Saturday,Play Out - Special Needs,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+003F0000029XImo,a0BF000000sdrA9,M3J1G1,43.7531278,-79.5074707,10,Male,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"C ($40,000-$49,999; 2 or more dependents)",4
+003F0000029XImo,a0BF000000sdrA9,M3J1G1,43.7531278,-79.5074707,10,Male,3:20:00 PM,Tuesday,Group Guitar,Firgrove P.S.,43.751963,-79.5203,"C ($40,000-$49,999; 2 or more dependents)",4
+0032A00002O6KJb,a0B2A00000usJ9v,M3N1T4,43.7699874,-79.5185398,14,Female,5:00:00 PM,Wednesday,Choir - SR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",5
+0032A00002iFSwj,a0B2A00000w2YTH,M3N2V5,43.7555503,-79.5176613,5,Female,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"C ($40,000-$49,999; 2 or more dependents)",3
+0032A00002T2WlD,a0B2A00000utzt9,M3N1P1,43.761635,-79.517837,7,Female,10:00:00 AM,Saturday,Keyboards and Beats 1,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"G ($60,000-$69,999; 2 or more dependents)",3
+0032A00002VBuRo,a0B2A00000uu3fw,M3J1R4,43.7561374,-79.4912161,11,Male,5:00:00 PM,Wednesday,Group Guitar,Oakdale Park M.S.,43.747478,-79.512099,"A (<$20,000)",2
+0032A00002T02Be,a0B2A00000utt94,M3N2J8,43.7525592,-79.5157287,8,Female,11:00:00 AM,Saturday,Keyboards and Beats 2,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"G ($60,000-$69,999; 2 or more dependents)",2
+003F0000029XInx,a0BF000000sdrA9,M3J1G1,43.7531278,-79.5074707,9,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"C ($40,000-$49,999; 2 or more dependents)",4
+003F0000029XInx,a0BF000000sdrA9,M3J1G1,43.7531278,-79.5074707,9,Female,3:20:00 PM,Tuesday,Group Guitar,Firgrove P.S.,43.751963,-79.5203,"C ($40,000-$49,999; 2 or more dependents)",4
+0032A00002T0q9S,a0B2A00000utwqW,M3N2J9,43.7545323,-79.5162558,6,Female,3:30:00 PM,Saturday,Song & Stories,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,,2
+0032A00002d3BZm,a0B2A00000us2uy,M3N2T2,43.7492681,-79.5169586,14,Female,6:00:00 PM,Wednesday,Group Guitar,Oakdale Park M.S.,43.747478,-79.512099,"A (<$20,000)",2
+003F000001WXcGD,a0BF000000iEOxo,L3T3W6,43.8253868,-79.4097241,9,Male,4:30:00 PM,Tuesday,Group Guitar,FLICC,43.751489,-79.517835,"I ($70,000+)",2
+0032A00002d1v6x,a0B2A00000w2DYP,M3N2V5,43.7555503,-79.5176613,9,Male,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,,
+0032A00002d0NxJ,a0B2A00000w2Bgz,M2R2A3,43.7906887,-79.446655,11,Male,12:00:00 PM,Saturday,Music Technology Lab,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+0032A00002d0cge,a0B2A00000w2BzO,M3N2Y2,43.7580179,-79.5171342,8,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",1
+0032A00002d0cge,a0B2A00000w2BzO,M3N2Y2,43.7580179,-79.5171342,8,Female,5:20:00 PM,Wednesday,Group Piano,Topcliff P.S.,43.7555852,-79.5106653,"A (<$20,000)",1
+0032A00002O4qOt,a0B2A00000urxJS,M3N1J3,43.7484883,-79.508525,6,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",3
+0032A00002d1eba,a0B2A00000w2DFN,M3M1J4,43.723329,-79.4958732,8,Male,5:15:00 PM,Tuesday,Group Guitar,FLICC,43.751489,-79.517835,"A (<$20,000)",3
+0032A00002d1v8z,a0B2A00000w2DYP,M3N2V5,43.7555503,-79.5176613,9,Female,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,,
+003F000002AMzU0,a0BF000000sevP0,M6M5C7,43.6856652,-79.4923585,10,Female,9:00:00 AM,Saturday,Group guitar,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",3
+0032A00002hMQtO,a0B2A00000w2TXK,M3M1R8,43.7293044,-79.5092278,11,Female,5:00:00 PM,Wednesday,Choir - SR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",3
+0032A00002hMQtO,a0B2A00000w2TXK,M3M1R8,43.7293044,-79.5092278,11,Female,12:00:00 PM,Saturday,Music Technology Lab,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",3
+0032A00002hNjsq,a0B2A00000w2VRN,M3N1J1,43.7484865,-79.5101063,5,Male,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+0032A00002aR66R,a0B2A00000v9gEO,M3N2R5,43.7601332,-79.5079979,8,Female,5:20:00 PM,Monday,Group Piano,Firgrove P.S.,43.751963,-79.5203,"B ($20,000-$39,999)",4
+0032A00002d2bfS,a0B2A00000w2ESE,M3J1P9,43.7586365,-79.4918312,10,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"G ($60,000-$69,999; 2 or more dependents)",5
+0032A00002d1rmt,a0B2A00000w2DTK,M3N2T2,43.7492681,-79.5169586,9,Male,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,,
+003F000001c389l,a0BF000000jWBpe,M3N2T2,43.7492681,-79.5169586,14,Female,5:00:00 PM,Thursday,Group piano,Oakdale Park M.S.,43.747478,-79.512099,"B ($20,000-$39,999)",2
+003F000001c389l,a0BF000000jWBpe,M3N2T2,43.7492681,-79.5169586,14,Female,5:00:00 PM,Wednesday,Choir - SR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",2
+0032A00002eYSPa,a0B2A00000v9gEO,M3N2R5,43.7601332,-79.5079979,13,Male,6:00:00 PM,Wednesday,Group Guitar,Oakdale Park M.S.,43.747478,-79.512099,"B ($20,000-$39,999)",4
+003F000002AMzyT,a0BF000000sevlA,M3N1A1,43.7389043,-79.5169586,8,Female,3:20:00 PM,Tuesday,Group Guitar,Firgrove P.S.,43.751963,-79.5203,"E ($50,000-$59,999; 2 or more dependents)",4
+003F000002AMzyT,a0BF000000sevlA,M3N1A1,43.7389043,-79.5169586,8,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",4
+0032A00002d2bnt,a0B2A00000w2ESi,M3J1B1,43.7525206,-79.4897223,10,Male,5:20:00 PM,Monday,Group Piano,Firgrove P.S.,43.751963,-79.5203,"I ($70,000+)",5
+0032A00002d2bnt,a0B2A00000w2ESi,M3J1B1,43.7525206,-79.4897223,10,Male,1:30:00 PM,Saturday,Rock Band - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"I ($70,000+)",5
+0032A00002d00yC,a0B2A00000uu6hK,M2R1H6,43.7716938,-79.4332913,5,Female,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+003F000001c37lQ,a0BF000000jWBpe,M2R1H6,43.7716938,-79.4332913,11,Male,5:00:00 PM,Thursday,Group piano,Oakdale Park M.S.,43.747478,-79.512099,"B ($20,000-$39,999)",2
+003F000001bJkYI,a0BF000000jB0io,M3L2N8,43.7716938,-79.4332913,16,Female,6:30:00 PM,Wednesday,Private Voice,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,,
+003F000001bJkYI,a0BF000000jB0io,M3L2N8,43.7716938,-79.4332913,16,Female,5:00:00 PM,Wednesday,Choir - SR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,,
+003F000002AMzxk,a0BF000000sevlA,M3N1A1,43.7389043,-79.5169586,11,Female,9:00:00 AM,Saturday,Group guitar,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",4
+003F000002AMzxk,a0BF000000sevlA,M3N1A1,43.7389043,-79.5169586,11,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",4
+0032A00002d3heT,a0B2A00000urxaF,M3n1e9,43.7455164,-79.5180127,11,Male,4:30:00 PM,Wednesday,Private Guitar,Oakdale Park M.S.,43.747478,-79.512099,"G ($60,000-$69,999; 2 or more dependents)",2
+0032A00002T0do8,a0BF000000tWIEp,M3N1T9,43.770732,-79.5282021,5,Female,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",2
+0032A00002d0O1w,a0B2A00000w2Bgz,M2R2A3,43.7906887,-79.446655,7,Male,11:00:00 AM,Saturday,Ukulele Ensemble - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+0032A00002d0O1w,a0B2A00000w2Bgz,M2R2A3,43.7906887,-79.446655,7,Male,10:00:00 AM,Saturday,Keyboards and Beats 1,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+0032A00002iCvoL,a0B2A00000w2VSV,M3N2W2,43.7691932,-79.5227562,6,Male,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",3
+003F000002G11mX,a0BF000000tWIEp,M3N1T9,43.770732,-79.5282021,11,Male,5:15:00 PM,Tuesday,Group Guitar,FLICC,43.751489,-79.517835,"B ($20,000-$39,999)",2
+003F000002G11mX,a0BF000000tWIEp,M3N1T9,43.770732,-79.5282021,11,Male,12:00:00 PM,Saturday,Music Technology Lab,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",2
+003F000002G11mX,a0BF000000tWIEp,M3N1T9,43.770732,-79.5282021,11,Male,1:30:00 PM,Saturday,Rock Band - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",2
+0032A00002O4sxY,a0B2A00000urxcG,M9v5c1,43.7424832,-79.5670168,9,Male,4:20:00 PM,Wednesday,Group Piano,Topcliff P.S.,43.7555852,-79.5106653,"B ($20,000-$39,999)",2
+0032A00002Szr6h,a0B2A00000utsTN,m3n2y2,43.7580179,-79.5171342,7,Female,3:30:00 PM,Saturday,Song & Stories,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+0032A00002d0KIx,a0B2A00000uu3m4,M3M2V8,43.7413333,-79.492007,4,Male,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+0032A00002O4snT,a0B2A00000urxaZ,M2M3K9,43.7940314,-79.4024241,7,Female,11:00:00 AM,Saturday,Ukulele Ensemble - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+003F000001bztsL,a0BF000000jVBMv,M3N1K3,43.7521693,-79.511512,13,Male,4:00:00 PM,Thursday,Group piano,Oakdale Park M.S.,43.747478,-79.512099,,
+003F000001bzurE,a0BF000000jVBSt,M3N2Y4,43.7585793,-79.5152016,12,Male,5:40:00 PM,Monday,Private Piano,Oakdale Park M.S.,43.747478,-79.512099,,
+0032A00002V9cYm,a0B2A00000urxaj,M3n2j8,43.7525592,-79.5157287,5,Female,10:00:00 AM,Saturday,Keyboards and Beats 1,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+0032A00002O4skO,a0B2A00000urxaF,M3n1e9,43.7455164,-79.5180127, ,Male,3:00:00 PM,Wednesday,Group Guitar,Oakdale Park M.S.,43.747478,-79.512099,"G ($60,000-$69,999; 2 or more dependents)",2
+003F0000022wLjP,a0BF000000rT5tC,M3N2M6,43.7522325,-79.5137961,13,Female,6:00:00 PM,Wednesday,Private Voice,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",2
+003F0000022wLjP,a0BF000000rT5tC,M3N2M6,43.7522325,-79.5137961,13,Female,5:00:00 PM,Wednesday,Choir - SR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",2
+003F0000022wLjP,a0BF000000rT5tC,M3N2M6,43.7522325,-79.5137961,13,Female,3:00:00 PM,Thursday,Group piano,Oakdale Park M.S.,43.747478,-79.512099,"E ($50,000-$59,999; 2 or more dependents)",2
+0032A00002hNkGO,a0B2A00000w2VRm,M3M2X1,43.7446585,-79.4895466,6,Female,11:00:00 AM,Saturday,Ukulele Ensemble - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",2
+0032A00002hNkGO,a0B2A00000w2VRm,M3M2X1,43.7446585,-79.4895466,6,Female,3:30:00 PM,Saturday,Song & Stories,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",2
+0032A00002d0QDS,a0B2A00000usMaX,M3N2W2,43.7691932,-79.5227562,7,Male,1:30:00 PM,Saturday,Play Out - Special Needs,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",4
+0032A00002VBlev,a0BF000000sevlA,M3N1A1,43.7389043,-79.5169586,5,Male,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",4
+0032A00002R073x,a0B2A00000usoSW,M3N2R5,43.7601332,-79.5079979,9,Male,10:00:00 AM,Saturday,Group guitar,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",1
+0032A00002R073x,a0B2A00000usoSW,M3N2R5,43.7601332,-79.5079979,9,Male,11:00:00 AM,Saturday,Keyboards and Beats 2,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",1
+0032A00002iFSEZ,a0B2A00000w2YSs,M3N2M2,43.7498658,-79.5122148,6,Male,3:30:00 PM,Saturday,Song & Stories,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,,
+0032A00002T22fq,a0B2A00000utzE9,M3N2X4,43.7517341,-79.5180127,10,Male,4:30:00 PM,Tuesday,Group Guitar,FLICC,43.751489,-79.517835,"A (<$20,000)",3
+0032A00002T22fq,a0B2A00000utzE9,M3N2X4,43.7517341,-79.5180127,10,Male,4:30:00 PM,Tuesday,Group Guitar,FLICC,43.751489,-79.517835,"A (<$20,000)",3
+0032A00002hNlgD,a0B2A00000w2VSk,L5R0E5,43.7517341,-79.5180127,4,Male,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"D ($40,000-$49,999; 1 dependent)",1
+0032A00002iDBJN,a0B2A00000w2W72,M3N2X6,43.7516692,-79.5173099,12,Female,4:00:00 PM,Thursday,Group piano,Oakdale Park M.S.,43.747478,-79.512099,"A (<$20,000)",2
+0032A00002iDBMW,a0B2A00000w2W72,M3N2X6,43.7516692,-79.5173099,6,Male,3:30:00 PM,Saturday,Song & Stories,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+0032A00002iFPjj,a0B2A00000w2YNR,M9M2V5,43.7441036,-79.5412007,7,Male,3:30:00 PM,Saturday,Song & Stories,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",1
+0032A00002iFPjj,a0B2A00000w2YNR,M9M2V5,43.7441036,-79.5412007,7,Male,11:00:00 AM,Saturday,Ukulele Ensemble - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",1
+003F000002AMzVr,a0BF000000sevP0,M6M5C7,43.6856652,-79.4923585,13,Male,9:00:00 AM,Saturday,Group guitar,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",3
+0032A00002d1v7m,a0B2A00000w2DYU,M3N2Y2,43.7580179,-79.5171342,10,Female,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,,
+0032A00002T1Wk3,a0B2A00000utyiI,M3N1G9,43.7460722,-79.5208237,11,Male,10:00:00 AM,Saturday,Group guitar,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",3
+0032A00002T02HQ,,M3N1G9,43.7460722,-79.5208237,10,Female,11:00:00 AM,Saturday,Keyboards and Beats 2,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,,
+0032A00002d0caE,a0B2A00000w2Byz,M3J2V1,43.762703,-79.5037808,6,Male,11:00:00 AM,Saturday,Ukulele Ensemble - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",2
+0032A00002iFSHx,a0B2A00000w2YSs,M3N2M2,43.7498658,-79.5122148,7,Female,1:30:00 PM,Saturday,Play Out - Special Needs,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,,
+003F000001d0rdD,a0BF000000jlEKt,M3N1J7,43.7469681,-79.5144988,11,Male,4:00:00 PM,Thursday,Group piano,Oakdale Park M.S.,43.747478,-79.512099,,
+003F000001d0rdD,a0BF000000jlEKt,M3N1J7,43.7469681,-79.5144988,11,Male,5:15:00 PM,Tuesday,Group Guitar,FLICC,43.751489,-79.517835,,
+0032A00002T1WkY,a0B2A00000utyiI,M3N1G9,43.7460722,-79.5208237,7,Male,11:00:00 AM,Saturday,Ukulele Ensemble - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",3
+0032A00002hNlTY,a0B2A00000w2VSV,M3N2W2,43.7691932,-79.5227562,8,Male,5:20:00 PM,Wednesday,Group Piano,Topcliff P.S.,43.7555852,-79.5106653,"A (<$20,000)",3
+0032A00002d0KQ1,a0B2A00000w2BaS,M3L1Y3,43.7412878,-79.5043079,10,Female,11:00:00 AM,Saturday,Keyboards and Beats 2,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+0032A00002iFScg,a0B2A00000v9gEO,M3N2R5,43.7601332,-79.5079979,14,Female,12:00:00 PM,Saturday,Keyboards and Beats 3,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",4
+0032A00002T09pX,a0B2A00000uttXb,m3n1t6,43.7685589,-79.5303101,6,Male,10:00:00 AM,Saturday,Keyboards and Beats 1,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",1
+0032A00002T09pX,a0B2A00000uttXb,m3n1t6,43.7685589,-79.5303101,6,Male,11:00:00 AM,Saturday,Ukulele Ensemble - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",1
+003F0000025Atci,a0BF000000ohvj9,m3n1t6,43.7685589,-79.5303101,10,Female,3:20:00 PM,Monday,Group Piano,Firgrove P.S.,43.751963,-79.5203,,
+003F000001bztn6,a0BF000000jVBM5,M3N1M1,43.7572038,-79.5099306,12,Male,3:00:00 PM,Thursday,Group piano,Oakdale Park M.S.,43.747478,-79.512099,,
+0032A00002d2cYe,a0B2A00000w2EUF,M3L2J1,43.7241963,-79.5148502,10,Male,9:00:00 AM,Saturday,Group guitar,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"D ($40,000-$49,999; 1 dependent)",1
+0032A00002d1gXR,a0B2A00000w2DI2,M3N2Y2,43.7580179,-79.5171342,8,Male,3:20:00 PM,Wednesday,Group Piano,Topcliff P.S.,43.7555852,-79.5106653,"A (<$20,000)",3
+0032A00002d1rao,a0B2A00000w2DT5,M3N2V4,43.753774,-79.5176613,10,Female,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,,
+003F000002AMzKP,a0BF000000sevNi,M3N2B4,43.7532086,-79.5227562,8,Female,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,"A (<$20,000)",2
+003F000001bzuoy,a0BF000000jVBSU,M3N1M3,43.757351,-79.5107213,12,Female,5:00:00 PM,Thursday,Group piano,Oakdale Park M.S.,43.747478,-79.512099,"G ($60,000-$69,999; 2 or more dependents)",3
+0032A00002eYXMH,a0B2A00000w2H7y,M3J1V1,43.7585638,-79.4990363,13,Female,6:00:00 PM,Wednesday,Group Guitar,Oakdale Park M.S.,43.747478,-79.512099,"D ($40,000-$49,999; 1 dependent)",1
+0032A00002eYXMH,a0B2A00000w2H7y,M3J1V1,43.7585638,-79.4990363,13,Female,12:00:00 PM,Saturday,Music Technology Lab,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"D ($40,000-$49,999; 1 dependent)",1
+0032A00002O5gZ3,a0B2A00000us2uy,M3N2T2,43.7492681,-79.5169586,6,Female,10:00:00 AM,Saturday,Keyboards and Beats 1,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+0032A00002T22q7,a0B2A00000utzET,M3N2X6,43.7516692,-79.5173099,10,Male,5:15:00 PM,Tuesday,Group Guitar,FLICC,43.751489,-79.517835,"A (<$20,000)",4
+0032A00002d1vC8,a0B2A00000w2DYy,M3N2X6,43.7516692,-79.5173099,11,Female,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,,
+0032A00002aReHL,a0B2A00000v9gYx,M9M2X2,43.7505809,-79.544011,11,Male,2:30:00 PM,Saturday,Rock Band - SR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",2
+0032A00002iFTCV,a0B2A00000w2YTg,M3M2S8,43.7372201,-79.4923585,8,Female,4:20:00 PM,Monday,Group Piano,Firgrove P.S.,43.751963,-79.5203,"A (<$20,000)",1
+0032A00002d1epK,a0B2A00000w2DFX,M3N2Z1,43.759794,-79.5171342,6,Male,3:30:00 PM,Saturday,Song & Stories,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"C ($40,000-$49,999; 2 or more dependents)",2
+003F000001gXXJC,a0BF000000kn5CO,M3N2Z1,43.759794,-79.5171342,11,Male,4:00:00 PM,Wednesday,Private Guitar,Oakdale Park M.S.,43.747478,-79.512099,,
+003F000001bztvA,a0BF000000jVBN5,M3N1M5,43.7581244,-79.510282,11,Female,4:40:00 PM,Monday,Private Piano,Oakdale Park M.S.,43.747478,-79.512099,,
+0032A00002d1eJg,a0B2A00000w2DEo,M5M1J2,43.725914,-79.4090205,4,Male,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"C ($40,000-$49,999; 2 or more dependents)",2
+0032A00002YD0T0,a0B2A00000uu6hK,M2R1H6,43.7716938,-79.4332913,8,Male,11:00:00 AM,Saturday,Ukulele Ensemble - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+0032A00002YD0T0,a0B2A00000uu6hK,M2R1H6,43.7716938,-79.4332913,8,Male,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+0032A00002O4snJ,a0B2A00000urxaZ,M2M3K9,43.7940314,-79.4024241,10,Male,11:00:00 AM,Saturday,Keyboards and Beats 2,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+0032A00002hNkKV,a0B2A00000w2VRm,M3M2X1,43.7446585,-79.4895466,4,Female,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",2
+003F0000020WsfS,a0BF000000r2BzP,M3M2X1,43.7446585,-79.4895466,10,Female,6:10:00 PM,Monday,Private Piano,Oakdale Park M.S.,43.747478,-79.512099,,
+0032A00002iDArr,a0B2A00000w2W6s,M3M2Y4,43.74393,-79.4944673,18,Male,12:00:00 PM,Saturday,Keyboards and Beats 3,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+0032A00002T09zA,a0B2A00000uttYK,M3N2J4,43.7501239,-79.5166072,10,Female,5:00:00 PM,Thursday,Group piano,Oakdale Park M.S.,43.747478,-79.512099,"A (<$20,000)",2
+0032A00002T09zA,a0B2A00000uttYK,M3N2J4,43.7501239,-79.5166072,10,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+003F000001gYlOp,a0BF000000jCQ5o,M3N1N3,43.7593085,-79.510282,11,Female,4:10:00 PM,Monday,Private Piano,Oakdale Park M.S.,43.747478,-79.512099,"E ($50,000-$59,999; 2 or more dependents)",4
+003F0000020WMDu,a0BF000000r1pVP,M3N2J4,43.7501239,-79.5166072,12,Female,5:00:00 PM,Wednesday,Choir - SR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,,
+0032A00002T22wU,a0B2A00000utzEY,M3N1M5,43.7581244,-79.510282,16,MALE,5:15:00 PM,Tuesday,Group Guitar,FLICC,43.751489,-79.517835,"A (<$20,000)",1
+0032A00002d0vUp,a0B2A00000w2CLU,M3N2W3,43.7701803,-79.5222291,8,Female,3:30:00 PM,Saturday,Song & Stories,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",1
+0032A00002d0vUp,a0B2A00000w2CLU,M3N2W3,43.7701803,-79.5222291,8,Female,4:30:00 PM,Tuesday,Group Guitar,FLICC,43.751489,-79.517835,"A (<$20,000)",1
+0032A00002eZ4GX,a0B2A00000w2Huw,M3J3T7,43.7654026,-79.5009692,13,Female,6:00:00 PM,Wednesday,Group Guitar,Oakdale Park M.S.,43.747478,-79.512099,"B ($20,000-$39,999)",1
+003F000002AN02f,a0BF000000sevmD,M6A3C9,43.7193916,-79.4327637,9,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+0032A00002O4soG,a0B2A00000urxaj,M3n2j8,43.7525592,-79.5157287,10,Female,4:20:00 PM,Wednesday,Group Piano,Topcliff P.S.,43.7555852,-79.5106653,"E ($50,000-$59,999; 2 or more dependents)",3
+0032A00002O4soG,a0B2A00000urxaj,M3n2j8,43.7525592,-79.5157287,10,Female,11:00:00 AM,Saturday,Keyboards and Beats 2,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+0032A00002d2cPz,a0B2A00000w2ETq,M3N2J4,43.7501239,-79.5166072,15,Male,12:00:00 PM,Saturday,Keyboards and Beats 3,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",4
+0032A00002iDByh,a0B2A00000w2VSV,M3N2W2,43.7691932,-79.5227562,4,Male,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",3
+0032A00002d0OsT,a0B2A00000w2BiM,M3N1T4,43.7699874,-79.5185398,10,Male,11:00:00 AM,Saturday,Keyboards and Beats 2,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",2
+0032A00002T09xs,a0B2A00000uttYK,M3N2J4,43.7501239,-79.5166072,5,Male,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+0032A00002d0OvA,a0B2A00000w2BiM,M3N1T4,43.7699874,-79.5185398,17,Female,10:00:00 AM,Saturday,Group guitar,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",2
+0032A00002iCwjv,a0B2A00000w2W1T,M3L1Y7,43.7401974,-79.508525,10,Male,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",3
+0032A00002iCwn4,a0B2A00000w2W1T,M3L1Y7,43.7401974,-79.508525,8,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",3
+0032A00002d00WY,a0B2A00000w2B1S,M9M2Z9,43.7332498,-79.5375121,6,Male,10:00:00 AM,Saturday,Keyboards and Beats 1,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",5
+0032A00002d00Sv,a0B2A00000w2B1S,M9M2Z9,43.7332498,-79.5375121,9,Female,12:00:00 PM,Saturday,Music Technology Lab,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",5
+0032A00002d00Sv,a0B2A00000w2B1S,M9M2Z9,43.7332498,-79.5375121,9,Female,4:20:00 PM,Monday,Group Piano,Firgrove P.S.,43.751963,-79.5203,"A (<$20,000)",5
+0032A00002O4szF,a0B2A00000urxca,M3N1Z6,43.7388659,-79.5213507,12,Male,4:00:00 PM,Thursday,Group piano,Oakdale Park M.S.,43.747478,-79.512099,"A (<$20,000)",4
+0032A00002hMOgz,a0B2A00000w2TW2,I6A1J1,43.7388659,-79.5213507,6,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",1
+0032A00002hMOgz,a0B2A00000w2TW2,I6A1J1,43.7388659,-79.5213507,6,Female,5:20:00 PM,Wednesday,Group Piano,Topcliff P.S.,43.7555852,-79.5106653,"B ($20,000-$39,999)",1
+0032A00002T022t,a0B2A00000utt81,M3N1M7,43.7579584,-79.5116877,6,Male,3:20:00 PM,Wednesday,Group Piano,Topcliff P.S.,43.7555852,-79.5106653,"D ($40,000-$49,999; 1 dependent)",1
+003F000001bztkn,a0BF000000r2BzP,M3N1M7,43.7579584,-79.5116877,11,Female,6:40:00 PM,Monday,Private Piano,Oakdale Park M.S.,43.747478,-79.512099,,
+003F000001bzuwi,a0BF000000jVBTU,M3N1M7,43.7579584,-79.5116877,12,Male,3:00:00 PM,Thursday,Group piano,Oakdale Park M.S.,43.747478,-79.512099,,
+0032A00002O4swf,a0B2A00000urxc1,m3n1k5,43.7492967,-79.5204723,11,Female,4:20:00 PM,Monday,Group Piano,Firgrove P.S.,43.751963,-79.5203,"B ($20,000-$39,999)",1
+a0X2A00000BZ6om,,m3n1k5,43.7492967,-79.5204723,14,Female,12:00:00 PM,Saturday,Keyboards and Beats 3,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,,
+0032A00002d1qPQ,a0B2A00000w2DR9,M3N2Y4,43.7585793,-79.5152016,10,Female,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,,
+0032A00002d1v9E,a0B2A00000w2DYj,M3N2B3,43.7535391,-79.5215264,8,Female,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,,
+0032A00002ZH0EW,a0B2A00000v9eri,M9M1R6,43.7373847,-79.5454161,11,Female,9:00:00 AM,Saturday,Group guitar,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"I ($70,000+)",2
+0032A00002O4sjt,a0B2A00000urxaA,M3n2j4,43.7501239,-79.5166072,11,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",1
+003F0000028dMP4,a0BF000000sRIGt,M3N1J6,43.7471668,-79.5134447,14,Male,6:00:00 PM,Thursday,Private Piano,Oakdale Park M.S.,43.747478,-79.512099,,
+003F0000029XIoC,a0BF000000sdrA9,M3J1G1,43.7531278,-79.5074707,7,Female,3:20:00 PM,Tuesday,Group Guitar,Firgrove P.S.,43.751963,-79.5203,"C ($40,000-$49,999; 2 or more dependents)",4
+003F0000029XIoC,a0BF000000sdrA9,M3J1G1,43.7531278,-79.5074707,7,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"C ($40,000-$49,999; 2 or more dependents)",4
+0032A00002d1rAk,a0B2A00000w2DRx,M3N2C2,43.7551855,-79.5201209,9,Female,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,,
+0032A00002VD9IU,a0B2A00000uu4pe,M3N2J9,43.7545323,-79.5162558,9,Male,12:00:00 PM,Saturday,Music Technology Lab,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+0032A00002VD9IU,a0B2A00000uu4pe,M3N2J9,43.7545323,-79.5162558,9,Male,3:20:00 PM,Wednesday,Group Piano,Topcliff P.S.,43.7555852,-79.5106653,"A (<$20,000)",2
+0032A00002VAqqi,a0B2A00000uu2Dh,M3N2C2,43.7551855,-79.5201209,,Male,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,"C ($40,000-$49,999; 2 or more dependents)",3
+0032A00002VAqqi,a0B2A00000uu2Dh,M3N2C2,43.7551855,-79.5201209,9,Male,5:20:00 PM,Monday,Group Piano,Firgrove P.S.,43.751963,-79.5203,"C ($40,000-$49,999; 2 or more dependents)",3
+0032A00002O6KOv,a0BF000000rT5tC,M3N2M6,43.7522325,-79.5137961,6,Male,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",2
+0032A00002O6KOv,a0BF000000rT5tC,M3N2M6,43.7522325,-79.5137961,6,Male,11:00:00 AM,Saturday,Ukulele Ensemble - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",2
+0032A00002d1vBj,a0B2A00000w2DYt,M9V1C9,43.7322959,-79.5585001,10,Male,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,,
+0032A00002O4sp3,a0B2A00000urxao,M3n2p9,43.7689408,-79.5136204,9,Female,10:00:00 AM,Saturday,Group guitar,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",2
+003F0000020WM8Q,a0BF000000r1pUl,M3N2B9,43.7526872,-79.5187154,11,Female,12:00:00 PM,Saturday,Keyboards and Beats 3,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,,
+0032A00002iGefT,a0B2A00000w2Zat,M1G1R8,43.7647892,-79.2045784,5,Female,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",2
+0032A00002d1rXg,a0BF000000jlEAQ,M3N2V4,43.753774,-79.5176613,10,Male,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,"A (<$20,000)",5
+0032A00002d1rXg,a0BF000000jlEAQ,M3N2V4,43.753774,-79.5176613,8,Male,3:20:00 PM,Tuesday,Group Guitar,Firgrove P.S.,43.751963,-79.5203,"A (<$20,000)",5
+003F0000020Vf5a,a0BF000000jlEAQ,M3N2V4,43.753774,-79.5176613,10,Male,3:20:00 PM,Monday,Group Piano,Firgrove P.S.,43.751963,-79.5203,"A (<$20,000)",5
+003F0000020Vf5a,a0BF000000jlEAQ,M3N2V4,43.753774,-79.5176613,10,Male,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,"A (<$20,000)",5
+003F000001bztfO,a0BF000000jVBKh,M3N1M7,43.7579584,-79.5116877,13,Female,3:00:00 PM,Wednesday,Group Guitar,Oakdale Park M.S.,43.747478,-79.512099,"B ($20,000-$39,999)",4
+0032A00002T0pL6,a0B2A00000utwjp,M3L1Y3,43.7412878,-79.5043079,16,Female,5:00:00 PM,Wednesday,Choir - SR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"A (<$20,000)",
+003F000001d2F7G,a0BF000000jmSkn,M3L1Y3,43.7412878,-79.5043079,11,Female,3:00:00 PM,Thursday,Group piano,Oakdale Park M.S.,43.747478,-79.512099,,
+003F000001d2F26,a0BF000000jmSkT,M3L1Y3,43.7412878,-79.5043079,11,Female,5:10:00 PM,Monday,Private Piano,Oakdale Park M.S.,43.747478,-79.512099,"C ($40,000-$49,999; 2 or more dependents)",3
+003F000001d21HO,a0BF000000jmDcl,M3N1K6,43.7505804,-79.5199453,12,Male,3:20:00 PM,Monday,Group Piano,Firgrove P.S.,43.751963,-79.5203,,
+0032A00002aQO3d,a0B2A00000v9ex2,M3N1G8,43.7466644,-79.5208237,10,Female,1:30:00 PM,Saturday,Rock Band - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"G ($60,000-$69,999; 2 or more dependents)",2
+0032A00002aQO3d,a0B2A00000v9ex2,M3N1G8,43.7466644,-79.5208237,10,Female,12:00:00 PM,Saturday,Music Technology Lab,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"G ($60,000-$69,999; 2 or more dependents)",2
+0032A00002hNkps,a0B2A00000w2VRr,M3N2M4,43.7511169,-79.5113363,12,Female,3:00:00 PM,Wednesday,Group Guitar,Oakdale Park M.S.,43.747478,-79.512099,"A (<$20,000)",1
+0032A00002d1rHC,a0B2A00000w2DS2,M3N2T2,43.7492681,-79.5169586,8,Male,11:40:00 AM,Wednesday,Steel Pan Ensemble,Firgrove P.S.,43.751963,-79.5203,,
+0032A00002O4soV,a0B2A00000urxaj,M3n2j8,43.7525592,-79.5157287,7,Male,10:00:00 AM,Saturday,Keyboards and Beats 1,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+003F0000029XIqw,a0BF000000sdrAm,M3N2T5,43.7384743,-79.5187154,11,Male,3:00:00 PM,Wednesday,Group Guitar,Oakdale Park M.S.,43.747478,-79.512099,"G ($60,000-$69,999; 2 or more dependents)",3
+0032A00002T0dnA,a0B2A00000utvn2,M3M2X1,43.7446585,-79.4895466,10,Male,5:00:00 PM,Wednesday,Group Guitar,Oakdale Park M.S.,43.747478,-79.512099,"E ($50,000-$59,999; 2 or more dependents)",2
+0032A00002d0K1Q,a0B2A00000w2BZt,M3M2Y6,43.7437998,-79.4930614,6,Female,1:30:00 PM,Saturday,Rock Band - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+0032A00002d0K1Q,a0B2A00000w2BZt,M3M2Y6,43.7437998,-79.4930614,6,Female,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+003F000001d2F5y,a0BF000000jmSkn,M3M2Y6,43.7437998,-79.4930614,11,Male,3:00:00 PM,Thursday,Group piano,Oakdale Park M.S.,43.747478,-79.512099,,
+0032A00002d0zfJ,a0B2A00000w2CSV,M3N2G9,43.7674517,-79.5215264,4,Female,2:30:00 PM,Saturday,Early Childhood Music,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"C ($40,000-$49,999; 2 or more dependents)",2
+0032A00002czpQP,a0B2A00000w2Aoe,M6S4W6,43.6646669,-79.5025507,12,Male,2:30:00 PM,Saturday,Rock Band - SR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"B ($20,000-$39,999)",1
+0032A00002YD0V6,a0B2A00000uu6hK,M2R1H6,43.7716938,-79.4332913,7,Male,10:00:00 AM,Saturday,Keyboards and Beats 1,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
+0032A00002YD0V6,a0B2A00000uu6hK,M2R1H6,43.7716938,-79.4332913,7,Male,4:00:00 PM,Wednesday,Choir - JR,Monsignor Fraser College (Norfinch),43.7577312,-79.5272721,"E ($50,000-$59,999; 2 or more dependents)",3
